@@ -1,0 +1,346 @@
+.all .top .logo
+{
+    position: relative;
+    left: 40px;
+}
+.all .top2 ul b
+{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    position: relative;
+    left: 140px;
+    bottom: 115px;
+}
+.all .top3 
+{
+    position: relative;
+    left: 1052px;
+    bottom: 150px;
+}
+.all .top4 p
+{
+    height: 60px;
+    width: 83%;
+    background-color: #ff822a;
+    position: relative;
+    left: 160px;
+    bottom: 150px;
+}
+.all .top5 ul b
+{
+    display: flex;
+    list-style: none;
+    gap: 35px;
+    color:white;
+    position: relative;
+    bottom: 205px;
+    left: 160px;
+    font-size: 16px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.all .top6 .fb
+{
+    position: relative;
+    bottom: 250px;
+    left: 950px;
+}
+.all .top6 .ig
+{
+    position: relative;
+    bottom: 250px;
+    left: 960px;
+}
+.all .top6 .tt
+{
+    position: relative;
+    bottom: 250px;
+    left: 970px;
+}
+.all .top6 .gm
+{
+    position: relative;
+    bottom: 250px;
+    left: 980px;
+}
+.all .mid
+{
+    position: relative;
+    left: 40px;
+    bottom: 220px;
+}
+.all .mid1 .anh1
+{
+    position: relative;
+    left: 40px;
+    bottom: 200px;
+
+}
+.all .mid1 ul
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    bottom: 380px;
+    color: white;
+    font-size: 30px;
+    left: 40px;
+    list-style: none;
+    font-weight: 700;
+}
+.all .mid2 .anh2
+{
+    position: relative;
+    bottom: 892px;
+    left: 632px;
+}
+.all .mid2 ul
+{
+    position: relative;
+    bottom: 1000px;
+    color: white;
+    left:630px;
+    list-style: none;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.all .mid3 .anh3
+{
+    position: relative;
+    bottom: 1002px;
+    left: 631px;
+}
+.all .mid3 ul
+{
+    position: relative;
+    bottom: 1111px;
+    color: white;
+    list-style: none;
+    left: 610px;
+    font-size: 18px;
+}
+.all .mid4 .anh4
+{
+    position: relative;
+    bottom: 1307px;
+    left: 920px;
+}
+.all .mid4 ul
+{
+    position: relative;
+    bottom: 1420px;
+    left: 930px;
+    font-size: 17px;
+    color: white;
+    list-style: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.all .mid5 ul
+{
+    position: relative;
+    bottom: 1400px;
+    list-style: none;
+    display: flex;
+    color: #f76f0e;
+    font-size: 25px;
+}
+.all .mid5 p
+{
+    width: 3%;
+    position: relative;
+    bottom: 1415px;
+    border-bottom: 3px solid chocolate;
+    left: 40px;
+}
+.all .mid5 h1
+{
+    width: 7%;
+    position: relative;
+    bottom: 1440px;
+    border-bottom: 3px solid rgb(187, 184, 183);
+    left: 79px;
+}
+.all .mid6 ul b
+{
+    position: relative;
+    bottom: 1502px;
+    left: 800px;
+    list-style: none;
+    font-size: 25px;
+    color: #f76f0e;
+}
+.all .mid6 p
+{
+    width: 3%;
+    position: relative;
+    bottom: 1508px;
+    border-bottom: 3px solid chocolate;
+    left: 800px;
+}
+.all .mid6 h1
+{
+    width: 28.5%;
+    position: relative;
+    bottom: 1532px;
+    border-bottom: 3px solid rgb(187, 184, 183);
+    left: 838px;
+}
+.all .mid7 .kaisa
+{
+    position: relative;
+    bottom: 1530px;
+    left: 40px;
+}
+.all .mid7 ul
+{
+    position: relative;
+    bottom: 1690px;
+    left: 250px;
+    list-style: none;
+}
+.all .mid7 .tamamo
+{
+    position: relative;
+    bottom: 1630px;
+    left: 40px;
+}
+.all .mid7 .chu2
+{
+    position: relative;
+    bottom: 1805px;
+}
+.all .mid7 .eos
+{
+    position: relative;
+    bottom: 1750px;
+    left: 40px;
+}
+.all .mid7 .chu3
+{
+    position: relative;
+    bottom: 1925px;
+}
+.all .mid7 .beauty
+{
+    position: relative;
+    bottom: 1870px;
+    left: 40px;
+}
+.all .mid7 .chu4
+{
+    position: relative;
+    bottom: 2045px;
+}
+.all .mid8 .trai1
+{
+    position: relative;
+    bottom: 2785px;
+    left: 800px;
+    list-style: none;
+    font-size: 17px;
+}
+.all .mid8 .dk1 p
+{
+    position: relative;
+    bottom: 2775px;
+    width: 31.5%;
+    border-bottom: 1px dashed hwb(0 55% 43%);
+    left: 800px;
+}
+.all .mid8 .trai2
+{
+    position: relative;
+    bottom: 2765px;
+    left: 800px;
+    list-style: none;
+    font-size: 17px;
+}
+.all .mid8 .dk2 p
+{
+    position: relative;
+    bottom: 2760px;
+    width: 31.5%;
+    border-bottom: 1px dashed hwb(0 55% 43%);
+    left: 800px;
+}
+.all .mid8 .trai3
+{
+    position: relative;
+    bottom: 2755px;
+    left: 800px;
+    list-style: none;
+    font-size: 17px;
+}
+.all .mid8 .dk3 p
+{
+    position: relative;
+    bottom: 2750px;
+    width: 31.5%;
+    border-bottom: 1px dashed hwb(0 55% 43%);
+    left: 800px;
+}
+.all .mid8 .trai4
+{
+    position: relative;
+    bottom: 2745px;
+    left: 800px;
+    list-style: none;
+    font-size: 17px;
+}
+.all .mid8 .dk4 p
+{
+    position: relative;
+    bottom: 2745px;
+    width: 31.5%;
+    border-bottom: 1px dashed hwb(0 55% 43%);
+    left: 800px;
+}
+.all .mid8 .trai5
+{
+    position: relative;
+    bottom: 2735px;
+    left: 800px;
+    list-style: none;
+    font-size: 17px;
+}
+.all .mid8 .cuuam .chankinh
+{
+    position: relative;
+    left: 800px;
+    bottom: 2720px;
+}
+.all .mid8 .cuoi p
+{
+    height: 260px;
+    width: 113%;
+    background-color: rgb(73, 70, 70);
+    position: relative;
+    right: 90px;
+    bottom: 2580px;
+}
+.all .mid8 .cuoi1 p
+{
+    height: 40px;
+    width: 133%;
+    background-color: rgb(8, 8, 8);
+    position: relative;
+    right: 90px;
+    bottom: 2600px;
+}
+.all .mid8 .cuoi2
+{
+    position: relative;
+    bottom: 2865px;
+    font-size: 19px;
+    list-style: none;
+    left: 80px;
+    color: rgb(209, 206, 206);
+}
+/* sáng chữ */
+.all .top2 ul b li:hover
+{
+    background-color: #e0d7ac;
+}
+.all .top5 ul b li:hover
+{
+    background-color: #759c9c;
+}
